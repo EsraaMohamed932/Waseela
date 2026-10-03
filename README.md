@@ -7,8 +7,9 @@ Waseela aims to create a safe, simple, and supportive digital experience that pr
 ##Team Members
 -Esraa Mohamed Mohamed Mohamed Khafaga (Team Leader)
 -Basmalla Osama Refaat
--Waheed Hazem Waheed Elshamaa
 -Mohamed Hamdi Shafeeq Elmezaien
+-Waheed Hazem Waheed Elshamaa
+
 
 ##Instructor
  Eng Mohamed Kamar
